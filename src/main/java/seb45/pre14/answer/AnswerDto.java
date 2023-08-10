@@ -1,4 +1,4 @@
-package seb45.pre14.dto;
+package seb45.pre14.answer;
 
 import java.time.LocalDateTime;
 

@@ -1,4 +1,4 @@
-package seb45.pre14.controller;
+package seb45.pre14.member;
 
 public class HomeController {
     //로그인화면(get) /login

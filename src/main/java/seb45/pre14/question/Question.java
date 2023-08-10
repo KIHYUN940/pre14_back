@@ -1,9 +1,11 @@
-package seb45.pre14.entity;
+package seb45.pre14.question;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
+import seb45.pre14.comment.Comment;
+import seb45.pre14.member.Member;
 
 import javax.persistence.*;
 import java.time.LocalDateTime;

@@ -1,6 +1,5 @@
-package seb45.pre14.repository;
+package seb45.pre14.comment;
 
-import seb45.pre14.entity.Comment;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

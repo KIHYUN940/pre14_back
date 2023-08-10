@@ -1,4 +1,4 @@
-package seb45.pre14.controller;
+package seb45.pre14.question;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 
